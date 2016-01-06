@@ -1,0 +1,2 @@
+# miui7
+ Almost All Galaxy Grand Series Have Many Custom Roms Except Grand Neo i9060 . It Has Broadcom Processor - Maybe The Reason It Doesnt Have ANY Stable Custom Roms . It Has Been Around For Around 2 Years And Still Stuck In " GELLY BEAN " . If MIUI For Grand Neo Is Released , It Will Be The ONLY ROM Running On Any i9060 With Custom ROM Since There Are NO Other Stable Custom Rom Options . It Would Attract Even More Fans To Xiaomi And MIUI . Hear This  Port STABLE MIUI On Kitkat For Galaxy Grand Neo . 
